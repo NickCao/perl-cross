@@ -1,5 +1,7 @@
 package File::Temp;
 
+our $VERSION = '0.2311';
+
 sub tempfile
 {
 	my $patt = shift;
